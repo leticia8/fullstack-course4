@@ -22,6 +22,8 @@ h5{
 }
 div#navbar-collapse.navbar-collapse.collapse.in{
     background-color: grey;
+    margin-left: 5px;
+    margin-right: 5px;
 
 }
 .visible-xs{
